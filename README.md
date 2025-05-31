@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 U can see my code error on line 19. ?
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [kitipos.mek@gmail.com](mailto:kitipos.mek@gmail.com)
+* ✉️  You can contact me at [avartar.icecream@gmail.com](mailto:avartar.icecream@gmail.com)
 * 🚀  I'm currently working on [Learn\_lua](http://t.me/learn_lua)
 * 🧠  I'm learning AI / BlockChain / Pentest
 
